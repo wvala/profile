@@ -86,11 +86,11 @@ body {
 a {
   text-decoration: underline;
   color: #112A46;
+  transition: 0.3s all;
 }
 
 a:hover {
   color: #FAF9F6;
-  transition: 0.3s;
 }
 
 .btn-blue {
